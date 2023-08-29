@@ -1,4 +1,5 @@
 Instructions
+
 Part 1: Scrape Titles and Preview Text from Mars News
 
 Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
